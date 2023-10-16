@@ -1,0 +1,14 @@
+C:\Users\3674532\Documents\CURSOS\C#\projetos\ConversorDeTempo\ConversorDeTempo\bin\Debug\net6.0\ConversorDeTempo.exe
+C:\Users\3674532\Documents\CURSOS\C#\projetos\ConversorDeTempo\ConversorDeTempo\bin\Debug\net6.0\ConversorDeTempo.deps.json
+C:\Users\3674532\Documents\CURSOS\C#\projetos\ConversorDeTempo\ConversorDeTempo\bin\Debug\net6.0\ConversorDeTempo.runtimeconfig.json
+C:\Users\3674532\Documents\CURSOS\C#\projetos\ConversorDeTempo\ConversorDeTempo\bin\Debug\net6.0\ConversorDeTempo.dll
+C:\Users\3674532\Documents\CURSOS\C#\projetos\ConversorDeTempo\ConversorDeTempo\bin\Debug\net6.0\ConversorDeTempo.pdb
+C:\Users\3674532\Documents\CURSOS\C#\projetos\ConversorDeTempo\ConversorDeTempo\obj\Debug\net6.0\ConversorDeTempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3674532\Documents\CURSOS\C#\projetos\ConversorDeTempo\ConversorDeTempo\obj\Debug\net6.0\ConversorDeTempo.AssemblyInfoInputs.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\ConversorDeTempo\ConversorDeTempo\obj\Debug\net6.0\ConversorDeTempo.AssemblyInfo.cs
+C:\Users\3674532\Documents\CURSOS\C#\projetos\ConversorDeTempo\ConversorDeTempo\obj\Debug\net6.0\ConversorDeTempo.csproj.CoreCompileInputs.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\ConversorDeTempo\ConversorDeTempo\obj\Debug\net6.0\ConversorDeTempo.dll
+C:\Users\3674532\Documents\CURSOS\C#\projetos\ConversorDeTempo\ConversorDeTempo\obj\Debug\net6.0\refint\ConversorDeTempo.dll
+C:\Users\3674532\Documents\CURSOS\C#\projetos\ConversorDeTempo\ConversorDeTempo\obj\Debug\net6.0\ConversorDeTempo.pdb
+C:\Users\3674532\Documents\CURSOS\C#\projetos\ConversorDeTempo\ConversorDeTempo\obj\Debug\net6.0\ConversorDeTempo.genruntimeconfig.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\ConversorDeTempo\ConversorDeTempo\obj\Debug\net6.0\ref\ConversorDeTempo.dll
